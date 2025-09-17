@@ -59,5 +59,12 @@ npm run dev
 - This project is a playground for learning and fun AI experiments — enjoy and explore!
 
 ---
+## Let’s connect
 
+*Rajath Krishna Prabhu* here, geek and coder.  
+- GitHub: [RealKrisMiles](https://github.com/RealKrisMiles)  
+- LinkedIn: [rajathkrishnaprabhu](https://www.linkedin.com/in/rajathkrishnaprabhu/
 
+---
+
+*Remember: The journey to fitness is a marathon, not a sprint. Unless it’s to the fridge. Then sprint like crazy.*
